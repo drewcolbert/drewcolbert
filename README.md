@@ -1,26 +1,46 @@
-# Updated version on the way...
+![photo](/images/cover-photo-final.png)
+
+### Interests
+:baseball: Sports - Red Sox, Patriots, Celtics, Bruins, Oregon Ducks <br>
+:video_game: Video games - Skyrim & Rocket League (currently :smile:) <br>
+:national_park: Nature - hiking, exploring national parks <br>
+:cat2: Animals - my two cats, Iggy & Otis
+
+
+### Professional Background
+:blue_car: Two years as a Senior QA Engineer at Waymo specializing in manual and automated testing for autonomonous vehicle software <br>
+:computer: Three years as a Data Analyst for the Oregon football and baseball teams working alongside the sports performance team
+
+### Tools and Technologies
+<img src=/images/python.png height="40" width="40"> &emsp; <img src=/images/mysql.png height="40" width="40"> &emsp; <img src=/images/r.png height="40" width="40"> &emsp; <img src=/images/selenium.png height="40" width="40"> &emsp; <img src=/images/pytest.png height="40" width="50"> &emsp; <img src=/images/git.png height="40" width=""> <br>
 <br>
+<img src=/images/vscode.png height="40" width="40"> &emsp; <img src=/images/microsoft.png height="" width="100"> &emsp; <img src=/images/google.png height="" width="100"> &emsp; <img src=/images/github.png height="40" width="150"> <br>
 <br>
 
-![construction](images/under-construction.png)
+
+
+### Currently working on...
+- Deepening my understand of automated testing frameworks
+- Learning Docker and DevOps processes
+
+
+### View my completed projects and data science portfolio!
+[Typing Bot](https://github.com/drewcolbert/Typing-Game-Bot) <br>
+[March Madness](https://github.com/drewcolbert/March-Madness) <br>
+[Automated Testing](https://github.com/drewcolbert/Python-Automation-Tests) <br>
+[MLB Pitcher Analysis](https://github.com/drewcolbert/MLB-Pitcher-Analysis) <br>
+
+**[Full Data Science Portfolio](https://drewcolbert.github.io/)**
 
 <br>
+
+## Connect with me!
+I am always excited to network and interact with other professionals, please reach out with anything! <br>
+
+**Click an icon to connect :smile:** <br>
 <br>
 
-### In the meantime
-Reach me here: drewcolbert24@gmail.com
+[<img src=/images/linkedin.png height="80" width="80">](https://www.linkedin.com/in/andrew-colbert-1a99a1186/) <br>
 
-<!--
-**drewcolbert/drewcolbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src=/images/gmail.png height="100" width="100"> <br> 
+drewcolbert24@gmail.com
