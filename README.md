@@ -1,5 +1,3 @@
-![photo](/images/cover-photo-final.png)
-
 ### Interests
 :baseball: Sports - Red Sox, Patriots, Celtics, Bruins, Oregon Ducks <br>
 :video_game: Video games - Skyrim & Rocket League (currently :smile:) <br>
