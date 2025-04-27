@@ -1,6 +1,6 @@
 ### Interests
 :baseball: Sports - Red Sox, Patriots, Celtics, Bruins, Oregon Ducks <br>
-:video_game: Video games - Skyrim & Rocket League (currently :smile:) <br>
+:video_game: Video games - Skyrim & Rocket League <br>
 :national_park: Nature - hiking, exploring national parks <br>
 :cat2: Animals - my two cats, Iggy & Otis
 
@@ -35,7 +35,7 @@
 ## Connect with me!
 I am always excited to network and interact with other professionals, please reach out with anything! <br>
 
-**Click an icon to connect :smile:** <br>
+**Click an icon to connect:** <br>
 <br>
 
 [<img src=/images/linkedin.png height="80" width="80">](https://www.linkedin.com/in/andrew-colbert-1a99a1186/) <br>
