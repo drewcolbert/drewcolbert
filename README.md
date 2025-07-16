@@ -1,10 +1,3 @@
-### Interests
-:baseball: Sports - Red Sox, Patriots, Celtics, Bruins, Oregon Ducks <br>
-:video_game: Video games - Skyrim & Rocket League <br>
-:national_park: Nature - hiking, exploring national parks <br>
-:cat2: Animals - my two cats, Iggy & Otis
-
-
 ### Professional Background
 :blue_car: Two years as a Senior QA Engineer at Waymo specializing in manual and automated testing for autonomonous vehicle software <br>
 :computer: Three years as a Data Analyst for the Oregon football and baseball teams working alongside the sports performance team
